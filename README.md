@@ -1,5 +1,5 @@
 ## HambuP
-![banner](.\screenshots\pixilart-drawing.png)
+![banner](./screenshots/pixilart-drawing.png)
 <!--
 **HambuP/HambuP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
