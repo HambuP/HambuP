@@ -5,7 +5,7 @@
   <!-- Cambia 1200 por el ancho real de tu PNG y 220 por el alto deseado -->
   <svg viewBox="0 0 1200 220" width="100%" xmlns="http://www.w3.org/2000/svg">
     <!-- Ajusta y (negativo = recorta más por arriba). width debe ser el ancho real del PNG -->
-    <image href="screenshots/banner.png" x="0" y="-160" width="1200" />
+    <image href="screenshots/banner.png" x="0" y="-16" width="1200" />
   </svg>
 </p>
 
