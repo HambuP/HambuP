@@ -1,5 +1,12 @@
 ## HambuP
-![banner](./screenshots/pixilart-drawing.png)
+<p align="center">
+  <img
+    src="screenshots/pixilart-drawing.png"
+    alt="HambuP banner"
+    width="480"
+    style="image-rendering: pixelated; image-rendering: crisp-edges; height: auto;" />
+</p>
+
 <!--
 **HambuP/HambuP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
