@@ -5,7 +5,7 @@
      style="max-width:1200px; height:220px; overflow:hidden; margin:0 auto;">
   <img src="screenshots/banner.png" alt="HambuP"
        style="width:100%; height:auto; image-rendering:pixelated; image-rendering:crisp-edges;
-              margin-top:-18px;">  <!-- mueve el encuadre (negativo recorta por arriba) -->
+              margin-top:-180px;">  <!-- mueve el encuadre (negativo recorta por arriba) -->
 </div>
 
 
