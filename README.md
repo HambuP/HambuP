@@ -1,4 +1,4 @@
-## HambuP
+## HAMBUP
 ![banner](./screenshots/banner1.png)
 <!-- Recorte sin deformar -->
 
