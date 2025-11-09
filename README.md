@@ -1,16 +1,13 @@
 ## HambuP
 ![banner](./screenshots/banner.png)
-
-<p align="center">
+<!-- Recorte sin deformar -->
+<div align="center"
+     style="max-width:1200px; height:220px; overflow:hidden; margin:0 auto;">
   <img src="screenshots/banner.png" alt="HambuP"
-       style="
-         width:100%;          /* o p.ej. 1200px */
-         max-width:1200px;
-         height:220px;        /* alto que quieres tras el recorte */
-         object-fit:cover;    /* recorta para llenar la caja */
-         object-position:center 55%; /* 0% arriba, 100% abajo */
-         image-rendering:pixelated; image-rendering:crisp-edges;">
-</p>
+       style="width:100%; height:auto; image-rendering:pixelated; image-rendering:crisp-edges;
+              margin-top:-18px;">  <!-- mueve el encuadre (negativo recorta por arriba) -->
+</div>
+
 
 <!--
 **HambuP/HambuP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
